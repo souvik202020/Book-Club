@@ -16,10 +16,10 @@ The database looks something like this (The actions column will have buttons app
 
 Here is what the completed page looks for the logged out and logged in user
 
-![Login1](https://github.com/souvik202020/Book-Club/blob/master/Screenshot%202022-03-19%20163018(1).png)
-![Login2](https://github.com/souvik202020/Book-Club/blob/master/Screenshot%202022-03-19%20163121(2).png)
-![after1](https://github.com/souvik202020/Book-Club/blob/master/Screenshot%202022-03-19%20163203(3).png)
-![after2](https://github.com/souvik202020/Book-Club/blob/master/Screenshot%202022-03-19%20163231(4).png)
+![Login1](https://github.com/souvik202020/Book-Club/blob/master/screencapture-file-C-Users-KIIT-Desktop-WEB-DEVELOPMENT-Book-club-index-html-2022-03-19-17_00_23.png)
+
+![after1](https://github.com/souvik202020/Book-Club/blob/master/screencapture-file-C-Users-KIIT-Desktop-WEB-DEVELOPMENT-Book-club-index-html-2022-03-19-17_01_00.png)
+
 
 
 The final completed database should have the following functionalities:

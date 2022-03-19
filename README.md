@@ -21,10 +21,6 @@ Here is what the completed page looks for the logged out and logged in user
 
 ![Screenshot 2022-03-02 at 10 11 39 PM](https://user-images.githubusercontent.com/10229595/156407216-46476c81-1205-4271-b618-29ad7042ae9a.png)
 
-
-
-For purposes of this exercise, we have provided the basic HTML and CSS styles for you. You only need to write the Javascript code.
-
 The final completed database should have the following functionalities:
 
 1. A table containing the information shown above - in a real world example, this data would be coming in from a database, fetched by backend API’s. For the purposes of this assignment, you can store this data in an appropriate data structure.
